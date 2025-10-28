@@ -9,25 +9,32 @@ Analyze the ATM System and identify its key actors (e.g., Customer, Bank Server)
 1.Create the Use Case Diagram to show actors and their interactions with the system. 2.Develop the Class Diagram representing classes, attributes, operations, and relationships. 3.Design the Activity Diagram describing workflows such as cash withdrawal. 4.Construct the Sequence Diagram illustrating interactions between objects during processes like PIN verification. 5.Prepare the Communication Diagram showing collaboration among objects. 6.Organize components into packages using a Package Diagram for modularity.
 
 # DIAGRAMS:
-# Use Case Diagram:
-![UseCaseDiagram1](https://github.com/user-attachments/assets/2fd127ae-4d76-413b-a4f1-b09b9784ab8d)
 
-# Class Diagram:
-![UseCaseDiagram1](https://github.com/user-attachments/assets/c2c4abdf-a337-4252-8148-1ac3e3aa9fdf)
+## Use Case Diagram
 
-# Activity Diagram:
-![ActivityDiagram1](https://github.com/user-attachments/assets/33fd196e-2a01-40c3-9423-e75d0e7f599e)
+<img width="1207" height="980" alt="image" src="https://github.com/user-attachments/assets/c0bc1b97-5ead-4ed9-a418-7632c3bad374" />
 
-# Communication Doagram:
-![CommunicationDiagram1](https://github.com/user-attachments/assets/9c96ac80-af3c-49f6-9a6e-db3bb2028067)
+## Class Diagram
 
-# Package Diagram:
-![PackageDiagram1](https://github.com/user-attachments/assets/81c37925-b9b6-44bc-a3e5-1e8ea19c7014)
+<img width="781" height="501" alt="image" src="https://github.com/user-attachments/assets/0139673b-c195-424e-94e9-13ee33d9ee59" />
 
-# Sequence Diagram:
-![SequenceDiagram1](https://github.com/user-attachments/assets/daf142d0-33d6-408b-bfe3-a8e1bff5b0dc)
+## Activity Diagram
 
+<img width="573" height="764" alt="image" src="https://github.com/user-attachments/assets/4725f8d2-e2d7-4b4e-850a-e7efdd7f26a6" />
+
+## Communication Diagram
+
+<img width="1066" height="890" alt="image" src="https://github.com/user-attachments/assets/86a8b7a5-28dd-4881-8d39-7695a1c1b44d" />
+
+## Package Diagram
+
+<img width="837" height="555" alt="image" src="https://github.com/user-attachments/assets/bb898962-1158-417b-b224-7f2f24e434fc" />
+
+## Sequence Diagram
+
+<img width="1172" height="868" alt="image" src="https://github.com/user-attachments/assets/338f6970-af2e-4bac-ab6c-feefb8b1a20f" />
 
 
 # RESULT:
-The ATM System is successfully analyzed, and its architecture is effectively represented using UML diagrams, providing a clear understanding of system structure and behavior.
+
+Thus the program is verified successfully.
